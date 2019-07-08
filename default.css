@@ -30,6 +30,15 @@ code {
 .inverse h1, .inverse h2, .inverse h3 {
   color: #f3f3f3;
 }
+
+.fancy, .fancy h1, .fancy h2, .fancy h3 {
+  font-family: 'Great Vibes', cursive;
+}
+
+.fancy h1 {
+  font-size: 4em;
+}
+
 /* Two-column layout */
 .left-column {
   color: #777;

@@ -27,3 +27,8 @@ class: center
 
 .bigger[We will mix discussion & narrative in a "choose-our-own-adventure"
     improv style]
+
+---
+class: center, middle, inverse, fancy
+
+# Chapter 1
