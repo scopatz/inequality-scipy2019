@@ -39,6 +39,11 @@ code {
   font-size: 4em;
 }
 
+.large-fancy {
+  font-size: 4em;
+  font-family: 'Great Vibes', cursive;
+}
+
 /* Two-column layout */
 .left-column {
   color: #777;
