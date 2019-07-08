@@ -32,3 +32,15 @@ class: center
 class: center, middle, inverse, fancy
 
 # Chapter 1
+
+
+<div style="text-align:center;">
+<img src="sinking.svg" style="width:300px;"/>
+</div>
+
+???
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/surang" title="surang">surang</a> from <a href="https://www.flaticon.com/"                 title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/"                 title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+---
+
