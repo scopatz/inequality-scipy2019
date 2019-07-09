@@ -218,7 +218,6 @@ doing to be more inclusive.]
 
 ---
 class: center, middle
-
 # Discussion
 
 <div style="text-align:center;">
@@ -468,3 +467,80 @@ name: ch3-blog
 # Blog
 
 .bigger[The detritus of previous generations of lost souls reminds you to blog.]
+
+--
+
+.bigger[You decide to blog about the Open Source diversity issues affecting your
+podcast.]
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Develop a theory of diversity](#ch3-theory)
+2. [Describe a method for data collection](#ch3-data)
+3. [Plot your results](#ch3-plot-no-data)
+4. [Muse more generally](#ch3-muse)
+]
+
+---
+name: ch3-theory
+# Theory
+
+.bigger[You realize that for an illuminating blog post you will
+need a general theory of diversity.]
+
+--
+
+.bigger[You want a tool that is capable of handling many different
+categories of equality.]
+
+--
+
+.bigger[You also want a tool that can handle many partitions, i.e.
+beyond simple binary women/men models.]
+
+---
+class: center, middle
+# Discussion
+
+<div style="text-align:center;">
+<img src="discuss.png" style="width:200px;"/>
+</div>
+
+.bigger[What are axes of equality that you would like to see
+discussed & analyzed?]
+
+.bigger[For example, gender.]
+
+(Time Limit: 1 min)
+
+---
+# Theory
+
+.bigger[You [decide](https://github.com/scopatz/nf-project-inequality/blob/master/nf-project-inequality.ipynb)
+that the Generalized Entropy Inequality measure (GEI, `G`) is just
+the mathematical tool you are looking for!]
+
+<div style="text-align:center;">
+<img src="gie.svg" style="width:200px;"/>
+</div>
+
+--
+
+.bigger[`H` is your old friend, the Shannon Entropy.]
+
+<div style="text-align:center;">
+<img src="shannon.svg" style="width:200px;"/>
+</div>
+
+
+--
+
+
+
+
+https://render.githubusercontent.com/render/math?math=H%20%3D%20-%5Csum_%7Bi%3D1%7D%5ES%20p_i%20%5Cln%20p_i&mode=inline
+
+
