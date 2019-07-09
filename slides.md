@@ -481,7 +481,7 @@ podcast.]
 1. [Develop a theory](#ch3-theory)
 2. [Collect data](#ch3-data-no-theory)
 3. [Plot your results](#ch3-plot-no-data)
-4. [Write the blog!](#ch3-muse)
+4. [Write the blog!](#ch3-write-nothing)
 ]
 
 ---
@@ -498,6 +498,48 @@ a lack of oxygen in the cavern.]
 --
 
 .center.large-fancy[You Suffocate]
+
+<div style="text-align:center;">
+<img src="crossbones.svg" style="width:250px;"/>
+</div>
+
+.center[[respawn](#ch3-blog)]
+
+---
+name: ch3-plot-no-data
+# Data collection
+
+.big[You have no data to plot.]
+
+--
+
+.big[While you stare at a blank matplotlib figure, the
+earth itself begins to violently shake!]
+
+--
+
+.center.large-fancy[You Are Crushed]
+
+<div style="text-align:center;">
+<img src="crossbones.svg" style="width:250px;"/>
+</div>
+
+.center[[respawn](#ch3-blog)]
+
+---
+name: ch3-write-nothing
+# Writing
+
+.big[You open up Jupyter, but you have nothing to say and the
+words fail to flow.]
+
+--
+
+.big[Suddenly, the debris-filled room suddenly fills with water!]
+
+--
+
+.center.large-fancy[You Drown]
 
 <div style="text-align:center;">
 <img src="crossbones.svg" style="width:250px;"/>
