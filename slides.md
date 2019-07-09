@@ -2,6 +2,10 @@ class: center, middle, inverse
 
 # Inequality of Underrepresented Groups in Core Project Leadership
 
+~OR~
+
+.bigger[Escape from Monoculture Island]
+
 Anthony Scopatz
 
 [Quansight](https://www.quansight.com/)
@@ -100,8 +104,8 @@ white men.]
 
 .bigger[
 1. [Stop podcasting, in shame](#ch1-stop)
-2. Keep podcasting the way you have been
-3. Check your privledge
+2. [Keep podcasting the way you have been](#ch1-keep)
+3. [Check your privilege](#ch1-check)
 ]
 
 ---
@@ -121,3 +125,51 @@ name: ch1-stop
 </div>
 
 .center[[respawn](#ch1-podcasting)]
+
+---
+name: ch1-keep
+# Keep podcasting the way you have been
+
+.bigger[You don't change and neither does the world.]
+
+--
+
+<br/>
+
+.center.large-fancy[Rescue Never Comes]
+
+<div style="text-align:center;">
+<img src="sunset-party.png" style="width:400px;"/>
+</div>
+
+.center[[respawn](#ch1-podcasting)]
+
+---
+name: ch1-check
+# Check your privilege
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+.center.bigger[You decide to re-evaluate your entire approach to podcasting about
+open source issues.]
+
+
+---
+class: center, middle, inverse, fancy
+
+# Chapter 2
+
+
+<div style="text-align:center;">
+<img src="lost.svg" style="width:300px;"/>
+</div>
+
+???
+
+<div>Icon made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div
