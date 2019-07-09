@@ -478,11 +478,32 @@ podcast.]
 .large-fancy[**Do You?**]
 
 .bigger[
-1. [Develop a theory of diversity](#ch3-theory)
-2. [Describe a method for data collection](#ch3-data)
+1. [Develop a theory](#ch3-theory)
+2. [Collect data](#ch3-data-no-theory)
 3. [Plot your results](#ch3-plot-no-data)
-4. [Muse more generally](#ch3-muse)
+4. [Write the blog!](#ch3-muse)
 ]
+
+---
+name: ch3-data-no-theory
+# Data collection
+
+.big[You lack a general theory, so don't know where to look.]
+
+--
+
+.big[Before you can rexamine your mental framework, your lamp goes out due to
+a lack of oxygen in the cavern.]
+
+--
+
+.center.large-fancy[You Suffocate]
+
+<div style="text-align:center;">
+<img src="crossbones.svg" style="width:250px;"/>
+</div>
+
+.center[[respawn](#ch3-blog)]
 
 ---
 name: ch3-theory
