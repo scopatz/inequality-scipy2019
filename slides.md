@@ -459,12 +459,12 @@ name: ch2-debris-room
 class: center, middle, inverse, fancy
 # Chapter 3
 
-
 <div style="text-align:center;">
-<img src="lost.svg" style="width:300px;"/>
+<img src="cave.png" style="width:300px;"/>
 </div>
 
 ---
-# Coding
+name: ch3-blog
+# Blog
 
-The detritus of previous generations of lost souls reminds you to blog.
+.bigger[The detritus of previous generations of lost souls reminds you to blog.]
