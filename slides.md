@@ -299,3 +299,74 @@ volcano, you slip on a treacherous ledge and fall into the lava below.]
 </div>
 
 .center[[respawn](#ch2-scoping)]
+
+---
+name: ch2-cave
+# Cave entrance
+
+.bigger[You approach the entrance to a cave. Around you is a forest.
+A small stream flows out of the cave and down a gully.]
+
+.bigger[There is a shiny brass lamp nearby.]
+
+<br/>
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Get lamp](#ch2-get-lamp)
+2. [Enter cave](#ch2-enter-cave-no-lamp)
+]
+
+---
+name: ch2-enter-get-lamp
+# Cave
+
+.bigger[OK. You have a lamp.]
+
+<br/>
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Turn on lamp](#ch2-turn-on-lamp-outside-cave)
+2. [Enter cave](#ch2-enter-cave-with-lamp-off)
+]
+
+
+---
+name: ch2-enter-cave-no-lamp
+# Cave
+
+.bigger[It is now pitch dark. If you proceed you will likely fall into a pit.]
+
+<br/>
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Proceed](#ch2-fall-into-pit)
+2. [Go Back](#ch2-fall-into-pit)
+]
+
+---
+name: ch2-fall-into-pit
+# Cave
+
+.bigger[Your footing slips. You begin to fall.]
+
+--
+
+.center.large-fancy[You Died]
+
+<div style="text-align:center;">
+<img src="rocks.png" style="width:300px;"/>
+</div>
+
+.center[[respawn](#ch2-scoping)]
