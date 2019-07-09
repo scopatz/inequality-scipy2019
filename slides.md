@@ -519,28 +519,29 @@ discussed & analyzed?]
 ---
 # Theory
 
-.bigger[You [decide](https://github.com/scopatz/nf-project-inequality/blob/master/nf-project-inequality.ipynb)
+.big[You [decide](https://github.com/scopatz/nf-project-inequality/blob/master/nf-project-inequality.ipynb)
 that the Generalized Entropy Inequality measure (GEI, `G`) is just
 the mathematical tool you are looking for!]
 
 <div style="text-align:center;">
-<img src="gie.svg" style="width:200px;"/>
+<img src="gei.svg" style="width:200px;"/>
 </div>
 
 --
 
-.bigger[`H` is your old friend, the Shannon Entropy.]
+.big[`H` is your old friend, the Shannon Entropy.]
 
 <div style="text-align:center;">
 <img src="shannon.svg" style="width:200px;"/>
 </div>
 
-
 --
 
+.big[It would sure be great if this were normalized to the level of equality in
+population at large, `G(P)`. So you set the normed `|G|` for open source to,]
 
-
-
-https://render.githubusercontent.com/render/math?math=H%20%3D%20-%5Csum_%7Bi%3D1%7D%5ES%20p_i%20%5Cln%20p_i&mode=inline
+<div style="text-align:center;">
+<img src="norm-gei.svg" style="width:300px;"/>
+</div>
 
 
