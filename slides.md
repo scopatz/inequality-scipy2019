@@ -95,7 +95,7 @@ name: ch1-podcasting
 --
 
 .bigger[Your friend and colleague Fernando Perez discretely emails you
-to point out that *all* of the podcast participants have been
+to point out that *all* of the podcast guests have been
 white men.]
 
 --
@@ -173,3 +173,63 @@ class: center, middle, inverse, fancy
 ???
 
 <div>Icon made from <a href="http://www.onlinewebfonts.com/icon">Icon Fonts</a> is licensed by CC BY 3.0</div
+
+---
+name: ch2-scoping
+# Scoping
+
+.bigger[Because you are trapped, some of the best tools available
+to you are your cunning logic and sharp wit.]
+
+--
+
+.bigger[You decide to survey the island and your podcasting options.]
+
+--
+
+.large-fancy[**Do You?**]
+
+.big[
+1. [Stroll on the beach to contemplate your lonliness](#ch2-beach)
+2. Walk in the forest to ponder your friendships
+3. Enter the cave to do some journaling
+4. Hike up the volcano to ask for help on Hacker News
+]
+
+---
+name: ch2-beach
+# Stroll on Beach
+
+.bigger[While walking on the sandy shore, you realize that you are not
+*truly* alone.]
+
+--
+
+.bigger[At least not when it comes to Open Source diversity & inclusion issues.]
+
+--
+
+.bigger[You are still stranded, of course. You're not getting off that easy!]
+
+--
+
+.bigger[But you *can* ask the projects themselevs about what they are
+doing to be more inclusive.]
+
+---
+class: center, middle
+
+# Discussion
+
+<div style="text-align:center;">
+<img src="discuss.png" style="width:200px;"/>
+</div>
+
+.bigger[What questions can you ask your guests about
+their diversity & inclusion efforts?]
+
+.bigger[How can you help move the conversation?]
+
+(Time Limit: 1 min)
+
+.big[[Return to Hut](#ch2-scoping)]
