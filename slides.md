@@ -191,9 +191,9 @@ to you are your cunning logic and sharp wit.]
 
 .big[
 1. [Stroll on the beach to contemplate your lonliness](#ch2-beach)
-2. Walk in the forest to ponder your friendships
-3. Enter the cave to do some journaling
-4. Hike up the volcano to ask for help on Hacker News
+2. [Walk in the forest to ponder your friendships](#ch2-forest)
+3. [Enter the cave to do some journaling](#ch2-cave)
+4. [Hike up the volcano to ask for help on Hacker News](#ch2-volcano)
 ]
 
 ---
@@ -233,3 +233,69 @@ their diversity & inclusion efforts?]
 (Time Limit: 1 min)
 
 .big[[Return to Hut](#ch2-scoping)]
+
+---
+name: ch2-forest
+# Walk in the forest
+
+.bigger[Approaching the forest, you scare four vultures out of a tree.]
+
+--
+
+.bigger[Their callings remind you that you can call on your friends for help.]
+
+--
+
+.bigger[After all, that's what friends are for!]
+
+--
+
+.bigger[Perhaps one of your friends would be interested in co-hosting with you.]
+
+---
+class: center, middle
+
+# Discussion
+
+<div style="text-align:center;">
+<img src="discuss.png" style="width:200px;"/>
+</div>
+
+.bigger[How can a co-host help bring a missing perspective to the podcast?]
+
+.bigger[What are the qualities of a friend you would want to help
+the podcast with diversity & inclusion issues?]
+
+(Time Limit: 1 min)
+
+---
+# Walk in the forest
+
+.bigger[You forgot about the tiger hunting you this whole time!]
+
+<div style="text-align:center;">
+<img src="tiger.png" style="width:200px;"/>
+</div>
+
+--
+
+.center.bigger[Yes, this island has a tiger, obviously.]
+
+.center.bigger[[Run Back to Your Hut!](#ch2-scoping)]
+
+---
+name: ch2-volcano
+# Hike the volcano
+
+.bigger[Seeking help from online discussion forums at the peak of the local
+volcano, you slip on a treacherous ledge and fall into the lava below.]
+
+--
+
+.center.large-fancy[You Died]
+
+<div style="text-align:center;">
+<img src="volcano.png" style="width:200px;"/>
+</div>
+
+.center[[respawn](#ch2-scoping)]
