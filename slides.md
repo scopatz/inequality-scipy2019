@@ -178,7 +178,7 @@ class: center, middle, inverse, fancy
 name: ch2-scoping
 # Scoping
 
-.bigger[Because you are trapped, some of the best tools available
+.bigger[Because you are stuck on this island alone, some of the best tools available
 to you are your cunning logic and sharp wit.]
 
 --
@@ -321,7 +321,7 @@ A small stream flows out of the cave and down a gully.]
 ]
 
 ---
-name: ch2-enter-get-lamp
+name: ch2-get-lamp
 # Cave
 
 .bigger[OK. You have a lamp.]
@@ -370,3 +370,101 @@ name: ch2-fall-into-pit
 </div>
 
 .center[[respawn](#ch2-scoping)]
+
+---
+name: ch2-turn-on-lamp-outside-cave
+# Cave
+
+.bigger[Your lamp is now on.]
+
+--
+
+.bigger[Not wanting to return to your hut, you enter the cave.]
+
+--
+
+.bigger[The dim light from your lamp reveals a large, rocky pit.]
+
+--
+
+.bigger[The pit is easily avoided.]
+
+<br/>
+
+--
+
+.center.large-fancy[[Proceed](#ch2-debris-room)]
+
+---
+name: ch2-enter-cave-with-lamp-off
+# Cave
+
+
+.bigger[It is now pitch dark. If you proceed you will likely fall into a pit.]
+
+<br/>
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Turn on Lamp](#ch2-turn-on-lamp-in-cave)
+2. [Proceed](#ch2-fall-into-pit)
+3. [Go Back](#ch2-fall-into-pit)
+]
+
+---
+name: ch2-turn-on-lamp-in-cave
+# Cave
+
+.bigger[Your lamp is now on.]
+
+--
+
+.bigger[The dim light from your lamp reveals a large, rocky pit.]
+
+--
+
+.bigger[That was close! You almost fell in.]
+
+--
+
+.bigger[The pit is easily avoided.]
+
+<br/>
+
+--
+
+.center.large-fancy[[Proceed](#ch2-debris-room)]
+
+
+---
+name: ch2-debris-room
+# Cave
+
+.bigger[You are in a debris room filled with stuff washed in from the surface.]
+
+
+<div style="text-align:center;">
+<img src="cave-room.png" style="width:300px;"/>
+</div>
+
+--
+
+.bigger[Finally! A nice place to relax.]
+
+
+---
+class: center, middle, inverse, fancy
+# Chapter 3
+
+
+<div style="text-align:center;">
+<img src="lost.svg" style="width:300px;"/>
+</div>
+
+---
+# Coding
+
+The detritus of previous generations of lost souls reminds you to blog.
