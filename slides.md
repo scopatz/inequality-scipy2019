@@ -892,8 +892,9 @@ name: ch4-leave-cave
 .large-fancy[**Do You?**]
 
 .bigger[
-1. [Plot your results](#ch3-plot)
 2. [Hike the volcano to post to Stack Overflow](#ch4-volcano)
+1. [Explore the hidden temple](#ch4-)
+1. [Run back to your hut](#ch4-)
 ]
 
 ---
