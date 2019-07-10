@@ -213,7 +213,7 @@ name: ch2-beach
 
 --
 
-.bigger[But you *can* ask the projects themselevs about what they are
+.bigger[But you *can* ask the projects themselves about what they are
 doing to be more inclusive.]
 
 ---
