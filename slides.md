@@ -70,14 +70,14 @@ high-quality podcasting equipment.]
 ---
 # Disaster!
 
-.bigger[Resuce is impossible.]
+.bigger[Rescuce is impossible.]
 
 .bigger[The reef is just too powerful!]
 
 --
 
-.bigger[A mysterious wealthy benefactor is willing to air drop you supplies
-assuming you produce a biweekly podcast about
+.bigger[A mysterious benefactor will air drop you supplies
+if you produce a biweekly podcast about
 [the future of Open Source Software](https://www.quansight.com/open-source-directions).]
 
 --
