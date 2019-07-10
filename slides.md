@@ -672,3 +672,18 @@ words fail to flow.]
 
 .center[[respawn](#ch3-blog-with-theory)]
 
+---
+name: ch3-data
+# Collect data
+
+.bigger[Now its time to collect data, and there are no grad students in sight!]
+
+--
+
+.bigger[Your podcast itself inspires you. You decide to look at diversity within
+[NumFOCUS](https://numfocus.org/) project leadership.]
+
+--
+
+.bigger[You decide to look at gender partitioned with
+`female`, `male`, & `nonbinary` (`S=3`).]
