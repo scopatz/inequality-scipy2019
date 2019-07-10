@@ -466,7 +466,8 @@ class: center, middle, inverse, fancy
 name: ch3-blog
 # Blog
 
-.bigger[The detritus of previous generations of lost souls reminds you to blog.]
+.bigger[The detritus of previous generations of lost souls <u>polietly</u>
+reminds you to blog.]
 
 --
 
@@ -507,7 +508,7 @@ a lack of oxygen in the cavern.]
 
 ---
 name: ch3-plot-no-data
-# Data collection
+# Plotting
 
 .big[You have no data to plot.]
 
@@ -607,4 +608,67 @@ population at large, `G(P)`. So you set the normed `|G|` for open source to,]
 <img src="norm-gei.svg" style="width:300px;"/>
 </div>
 
+---
+name: ch3-blog-with-theory
+# Blog
+
+.bigger[The detritus of previous generations of lost souls <u>stearnly</u>
+reminds you to blog.]
+
+--
+
+.bigger[You have a theoretical framework for the Open Source diversity issues
+affecting your podcast.]
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Collect data](#ch3-data)
+2. [Plot your results](#ch3-plot-no-data-with-theory)
+3. [Write the blog!](#ch3-write-nothing-with-theory)
+]
+
+---
+name: ch3-plot-no-data-with-theory
+# Plotting
+
+.big[You have no data to plot.]
+
+--
+
+.big[While you stare at a blank matplotlib figure, the
+earth itself begins to violently shake!]
+
+--
+
+.center.large-fancy[You Are Crushed]
+
+<div style="text-align:center;">
+<img src="crossbones.svg" style="width:250px;"/>
+</div>
+
+.center[[respawn](#ch3-blog-with-theory)]
+
+---
+name: ch3-write-nothing-with-theory
+# Writing
+
+.big[You open up Jupyter, but you have nothing to say and the
+words fail to flow.]
+
+--
+
+.big[Suddenly, the debris-filled room suddenly fills with water!]
+
+--
+
+.center.large-fancy[You Drown]
+
+<div style="text-align:center;">
+<img src="crossbones.svg" style="width:250px;"/>
+</div>
+
+.center[[respawn](#ch3-blog-with-theory)]
 
