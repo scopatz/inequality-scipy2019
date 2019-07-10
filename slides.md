@@ -52,7 +52,7 @@ class: center, middle, inverse, fancy
 # Disaster!
 
 .center.bigger[.red[🚨**Warning**🚨] <br/> The following depicts true events, only
-the names have been changed. <u>Viewer discrestion is advised.</u>]
+the names have been changed. <u>Viewer discretion is advised.</u>]
 
 --
 
@@ -72,7 +72,7 @@ high-quality podcasting equipment.]
 ---
 # Disaster!
 
-.bigger[Rescuce is impossible.]
+.bigger[Rescue is impossible.]
 
 .bigger[The reef is just too powerful!]
 
@@ -192,7 +192,7 @@ to you are your cunning logic and sharp wit.]
 .large-fancy[**Do You?**]
 
 .big[
-1. [Stroll on the beach to contemplate your lonliness](#ch2-beach)
+1. [Stroll on the beach to contemplate your loneliness](#ch2-beach)
 2. [Walk in the forest to ponder your friendships](#ch2-forest)
 3. [Enter the cave to do some journaling](#ch2-cave)
 4. [Hike up the volcano to ask for help on Hacker News](#ch2-volcano)
@@ -215,7 +215,7 @@ name: ch2-beach
 
 --
 
-.bigger[But you *can* ask the projects themselevs about what they are
+.bigger[But you *can* ask the projects themselves about what they are
 doing to be more inclusive.]
 
 ---
@@ -468,7 +468,7 @@ class: center, middle, inverse, fancy
 name: ch3-blog
 # Blog
 
-.bigger[The detritus of previous generations of lost souls <u>polietly</u>
+.bigger[The detritus of previous generations of lost souls <u>politely</u>
 reminds you to blog.]
 
 --
@@ -495,7 +495,7 @@ name: ch3-data-no-theory
 
 --
 
-.big[Before you can rexamine your mental framework, your lamp goes out due to
+.big[Before you can reexamine your mental framework, your lamp goes out due to
 a lack of oxygen in the cavern.]
 
 --
@@ -701,7 +701,7 @@ name: ch3-data
 name: ch3-collect-data-leadership
 # Collect data
 
-.bigger[To determine leadership, you use the following algorthim:]
+.bigger[To determine leadership, you use the following algorithm:]
 
 <br/>
 
@@ -839,7 +839,7 @@ template: ch3-actual-plot
 ---
 # Write the blog!
 
-.bigger[At last, you open an new Jupyer notebook.]
+.bigger[At last, you open an new Jupyter notebook.]
 
 --
 
@@ -946,7 +946,7 @@ name: ch4-run
 
 --
 
-.bigger[Your vigourous workout makes you think that there are
+.bigger[Your vigorous workout makes you think that there are
 are both active diversity issues and passive ones.]
 
 --
@@ -1039,7 +1039,7 @@ name: ch5-twitter
 --
 
 .bigger[You get sucked in, and fail to notice the volcano
-errupting. You are swimming in lava.]
+erupting. You are swimming in lava.]
 
 --
 
@@ -1068,7 +1068,7 @@ You use a promo code to order one.]
 
 --
 
-.bigger[As you ascend over open water back to civilation,
+.bigger[As you ascend over open water back to civilization,
 a battery catches fire and you plummet into the ocean.]
 
 --
@@ -1096,7 +1096,7 @@ help build a more welcoming community for everyone.]
 
 --
 
-.center.bigger[*Hey!* Those mindfulness audiobooks you downloaded seem to be working!]
+.center.bigger[*Hey!* Those mindfulness audio-books you downloaded seem to be working!]
 
 ---
 class: center, middle, inverse, fancy
