@@ -8,7 +8,9 @@ class: center, middle, inverse
 
 Anthony Scopatz
 
-[Quansight](https://www.quansight.com/)
+[@scopatz](https://twitter.com/scopatz), [Quansight](https://www.quansight.com/)
+
+SciPy 2019
 
 ---
 class: center
@@ -1098,9 +1100,38 @@ help build a more welcoming community for everyone.]
 
 ---
 class: center, middle, inverse, fancy
-name: ch5-hut
+name: the-end
 # The End
 
 <div style="text-align:center;">
 <img src="sunset-party.png" style="width:500px;"/>
 </div>
+
+---
+class: center, middle, inverse
+.large[
+
+<table>
+  <tr>
+    <td>Anthony Scopatz</td>
+    <td><a href="https://twitter.com/scopatz">@scopatz</a></td>
+  </tr>
+  <tr style="background: #00000000;">
+    <td>
+      <div style="text-align:center;">
+        <img src="quansight.png" />
+      </div>
+    </td>
+    <td><a href="https://www.quansight.com/">Quansight.com</a></td>
+  </tr>
+  <tr>
+    <td>
+      <div style="text-align:center;">
+        <img src="faiross-logo-circle.png" style="width:250px;"/>
+      </div>
+    </td>
+    <td><a href="http://faiross.com/">FairOSS.com</a></td>
+  </tr>
+</table>
+
+]
