@@ -676,14 +676,64 @@ words fail to flow.]
 name: ch3-data
 # Collect data
 
-.bigger[Now its time to collect data, and there are no grad students in sight!]
-
---
-
 .bigger[Your podcast itself inspires you. You decide to look at diversity within
 [NumFOCUS](https://numfocus.org/) project leadership.]
 
 --
 
-.bigger[You decide to look at gender partitioned with
+.bigger[You also decide to look at gender partitioned with
 `female`, `male`, & `nonbinary` (`S=3`).]
+
+--
+
+.bigger[So how to count the project leadership...]
+
+<br/>
+
+--
+
+.center.large[There are no grad students on this island!]
+
+---
+name: ch3-collect-data-leadership
+# Collect data
+
+.bigger[To determine leadership, you use the following algorthim:]
+
+<br/>
+
+---
+template: ch3-collect-data-leadership
+
+.big[
+1. Scrape project websites. Use listed steering committee ([Jupyter](https://jupyter.org/about))
+   or core team ([conda-forge](https://conda-forge.org/docs/orga/governance.html#current-members-of-core)) as leadership body.
+]
+
+---
+template: ch3-collect-data-leadership
+
+.big[
+1. Scrape project websites. Use listed steering committee ([Jupyter](https://jupyter.org/about))
+   or core team ([conda-forge](https://conda-forge.org/docs/orga/governance.html#current-members-of-core)) as leadership body.
+2. If no leadership body is posted, count top contributors as those with more than
+   150 commits (in spite of the "tyranny of code contribution").
+]
+
+---
+template: ch3-collect-data-leadership
+
+.big[
+1. Scrape project websites. Use listed steering committee ([Jupyter](https://jupyter.org/about))
+   or core team ([conda-forge](https://conda-forge.org/docs/orga/governance.html#current-members-of-core)) as leadership body.
+2. If no leadership body is posted, count top contributors as those with more than
+   150 commits (in spite of the "tyranny of code contribution").
+3. Be as inclusive as possible; include all past members and subcommittee members
+   ([pandas](https://github.com/pandas-dev/pandas-governance)).
+]
+
+<br/>
+
+--
+
+.center.large[Store results in `data.json`]
