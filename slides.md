@@ -585,7 +585,7 @@ discussed & analyzed?]
 
 .big[You [decide](https://github.com/scopatz/nf-project-inequality/blob/master/nf-project-inequality.ipynb)
 that the Generalized Entropy Inequality measure (GEI, `G`) is just
-the mathematical tool you are looking for!]
+the tool you are looking for!]
 
 <div style="text-align:center;">
 <img src="gei.svg" style="width:200px;"/>
