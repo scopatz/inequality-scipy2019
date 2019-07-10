@@ -612,12 +612,12 @@ population at large, `G(P)`. So you set the normed `|G|` for open source to,]
 name: ch3-blog-with-theory
 # Blog
 
-.bigger[The detritus of previous generations of lost souls <u>stearnly</u>
+.bigger[The detritus of previous generations of lost souls <u>sternly</u>
 reminds you to blog.]
 
 --
 
-.bigger[You have a theoretical framework for the Open Source diversity issues
+.bigger[You have a minimum of data for the Open Source diversity issues
 affecting your podcast.]
 
 --
@@ -625,12 +625,13 @@ affecting your podcast.]
 .large-fancy[**Do You?**]
 
 .bigger[
-1. [Collect data](#ch3-data)
-2. [Plot your results](#ch3-plot-no-data-with-theory)
-3. [Write the blog!](#ch3-write-nothing-with-theory)
+1. [Plot your results](#ch3-plot)
+2. [Write the blog!](#ch3-write-nothing-with-data)
 ]
 
 ---
+
+
 name: ch3-plot-no-data-with-theory
 # Plotting
 
@@ -737,3 +738,177 @@ template: ch3-collect-data-leadership
 --
 
 .center.large[Store results in `data.json`]
+
+---
+name: ch3-blog-with-data
+# Blog
+
+.bigger[The detritus of previous generations of lost souls <u>relentlessly</u>
+reminds you to blog.]
+
+--
+
+.bigger[You have a minimal data set for the Open Source diversity issues
+affecting your podcast.]
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Plot your results](#ch3-plot)
+2. [Write the blog!](#ch3-write-nothing-with-data)
+]
+
+---
+name: ch3-write-nothing-with-data
+# Writing
+
+.big[You open up Jupyter, but you have no pretty pictures to present and the
+words fail to flow.]
+
+--
+
+.big[Suddenly, the debris-filled room suddenly fills with water!]
+
+--
+
+.center.large-fancy[You Drown]
+
+<div style="text-align:center;">
+<img src="crossbones.svg" style="width:250px;"/>
+</div>
+
+.center[[respawn](#ch3-blog-with-data)]
+
+---
+name: ch3-plot
+# Plot the data
+
+.bigger[In the waning light of your lamp, you fire up Jupyter, matplotlib,
+and a trusty JSON parser.]
+
+<br/>
+
+--
+
+.bigger[You call `plt.barh()`.]
+
+<br/>
+
+--
+
+.bigger[You call `plt.get_cmap('viridis')`.]
+
+<br/>
+
+--
+
+.bigger[The screen flickers...]
+
+---
+name: ch3-actual-plot
+# Plot the data
+
+<div style="text-align:center;">
+<img src="figure.png" style="width:425px;"/>
+</div>
+
+
+---
+class: center, middle
+# Discussion
+
+<div style="text-align:center;">
+<img src="discuss.png" style="width:200px;"/>
+</div>
+
+.bigger[What does this data say about our community?]
+
+.bigger[What strategies are projects with more equality employing?]
+
+.bigger[Are these applicable to other projects?]
+
+(Time Limit: 2 min)
+
+---
+template: ch3-actual-plot
+
+---
+# Write the blog!
+
+.bigger[At last, you open an new Jupyer notebook.]
+
+--
+
+.bigger[It is called `Untitled1.ipynb`.]
+
+--
+
+.bigger[The words flow freely, your prose is top-notch,
+and your analysis is unassailable.]
+
+--
+
+.bigger[You tweet out a [binder](https://gke.mybinder.org/) link to the world.]
+
+--
+
+.bigger[You cunning dog, you.]
+
+--
+
+.bigger[Yet, you can't bring yourself to rename the file.]
+
+--
+
+.center.large-fancy[[Proceed](#ch4-phil)]
+
+---
+class: center, middle, inverse, fancy
+name: ch4-phil
+# Chapter 4
+
+<div style="text-align:center;">
+<img src="phil.png" style="width:300px;"/>
+</div>
+
+---
+name: ch4-leave-cave
+# Climb out
+
+.bigger[You start your trek back to your hut.]
+
+--
+
+.bigger[After leaving the debris room and avoiding the pit, you exit the cave.]
+
+--
+
+.bigger[As you leave, you hear a loud rumbling, which sounds like gears.]
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Plot your results](#ch3-plot)
+2. [Hike the volcano to post to Stack Overflow](#ch4-volcano)
+]
+
+---
+name: ch4-volcano
+# Hike the volcano
+
+.bigger[Seeking help from online discussion forums at the peak of the local
+volcano, you slip on a treacherous ledge and fall into the lava below.]
+
+--
+
+.center.large-fancy[You Died]
+
+<div style="text-align:center;">
+<img src="volcano.png" style="width:200px;"/>
+</div>
+
+.center[[respawn](#ch4-leave-cave)]
