@@ -50,7 +50,7 @@ class: center, middle, inverse, fancy
 # Disaster!
 
 .center.bigger[.red[🚨**Warning**🚨] <br/> The following depicts true events, only
-the names have been changed. <u>Viewer discrestion is advised.</u>]
+the names have been changed. <br/><u>Viewer discrestion is advised.</u>]
 
 --
 
