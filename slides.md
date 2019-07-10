@@ -892,9 +892,9 @@ name: ch4-leave-cave
 .large-fancy[**Do You?**]
 
 .bigger[
-2. [Hike the volcano to post to Stack Overflow](#ch4-volcano)
-1. [Explore the hidden temple](#ch4-)
-1. [Run back to your hut](#ch4-)
+1. [Hike the volcano to post to Stack Overflow](#ch4-volcano)
+2. [Search the overgrown ruins of dead ideas](#ch4-ruins)
+3. [Run back to your hut](#ch4-run)
 ]
 
 ---
@@ -913,3 +913,194 @@ volcano, you slip on a treacherous ledge and fall into the lava below.]
 </div>
 
 .center[[respawn](#ch4-leave-cave)]
+
+---
+name: ch4-ruins
+# Search the ruins
+
+.bigger[You decide to search the overgrown ruins
+in search of the loud grinding sound.]
+
+--
+
+.bigger[Suddenly, the cobblestones
+give way under your feet, dropping you into a pool of acid.]
+
+--
+
+.center.large-fancy[You Died]
+
+<div style="text-align:center;">
+<img src="acid-drop.png" style="width:175px;"/>
+</div>
+
+.center[[respawn](#ch4-leave-cave)]
+
+---
+name: ch4-run
+# Run back!
+
+.bigger[You have decided on the safest option. Flee!]
+
+--
+
+.bigger[Your vigourous workout makes you think that there are
+are both active diversity issues and passive ones.]
+
+--
+
+.bigger[<u>**Active</u>:** A toxic community / culture - or a toxic
+prevents & destroys equitable systems.]
+
+--
+
+.bigger[<u>**Passive</u>:** Significant biases prevent agents
+from making major strides toward equality.]
+
+--
+
+.bigger[*Wow!* You brain works so well while physically active.
+*You should try to run more.*]
+
+---
+class: center, middle
+# Discussion
+
+<div style="text-align:center;">
+<img src="discuss.png" style="width:200px;"/>
+</div>
+
+.bigger[What mechanisms do we have to help address
+active & passive issues?]
+
+(Time Limit: 2 min)
+
+---
+# Hut
+
+.bigger[You arrive back at your hut, safe & sound.]
+
+<br/>
+
+--
+
+.bigger[The sound of grinding gears has stopped. Odd.]
+
+<br/>
+
+--
+
+.bigger[It is time to try to get off this island.]
+
+<br/>
+
+--
+
+.center.large-fancy[[Proceed](#ch5-hut)]
+
+---
+class: center, middle, inverse, fancy
+name: ch5-hut
+# Chapter 5
+
+<div style="text-align:center;">
+<img src="hut.svg" style="width:300px;"/>
+</div>
+
+---
+name: ch5-plan
+# Hut
+
+.bigger[You are sick of podcasting for peanuts.]
+
+--
+
+.bigger[Also, your phone is blowing up with twitter notifications.]
+
+--
+
+.large-fancy[**Do You?**]
+
+.bigger[
+1. [Check Twitter](#ch5-twitter)
+2. [Update Your Apps](#ch5-apps)
+3. [Keep Podcasting](#ch5-podcast)
+]
+
+---
+name: ch5-twitter
+# Check Twitter
+
+.bigger[Your notebook tweet has gone viral!
+<br/>And, of course, started a flame war...]
+
+--
+
+.bigger[You get sucked in, and fail to notice the volcano
+errupting. You are swimming in lava.]
+
+--
+
+.left-column[
+<br/>
+<br/>
+.center.large-fancy[You Died]
+]
+
+<div style="text-align:center;">
+<img src="volcano.png" style="width:200px;"/>
+</div>
+
+.bigger[.center[[respawn](#ch5-plan)]]
+
+---
+name: ch5-apps
+# Update Your Apps
+
+.bigger[You decide to update your apps. A new one catches your eye.]
+
+--
+
+.bigger[Lyft Lift is a new drone-based ride sharing service.
+You use a promo code to order one.]
+
+--
+
+.bigger[As you ascend over open water back to civilation,
+a battery catches fire and you plummet into the ocean.]
+
+--
+
+.bigger[Lyft Lift *is* still in beta.]
+
+.bigger[.center[[swim back to shore](#ch5-plan)]]
+
+---
+name: ch5-podcast
+# Keep Podcasting
+
+.bigger[You have learned to accept your fate and decide to keep
+podcasting.]
+
+--
+
+.bigger[The equality issues in Open Source software are not going
+to disappear overnight.]
+
+--
+
+.bigger[But, through active, positive engagement you realize you can
+help build a more welcoming community for everyone.]
+
+--
+
+.center.bigger[*Hey!* Those mindfulness audiobooks you downloaded seem to be working!]
+
+---
+class: center, middle, inverse, fancy
+name: ch5-hut
+# The End
+
+<div style="text-align:center;">
+<img src="sunset-party.png" style="width:500px;"/>
+</div>
