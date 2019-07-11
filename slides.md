@@ -626,8 +626,9 @@ affecting your podcast.]
 .large-fancy[**Do You?**]
 
 .bigger[
-1. [Plot your results](#ch3-plot)
-2. [Write the blog!](#ch3-write-nothing-with-data)
+1. [Collect data](#ch3-data)
+2. [Plot your results](#ch3-plot-no-data-with-theory)
+3. [Write the blog!](#ch3-write-nothing-with-theory)
 ]
 
 ---
