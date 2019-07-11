@@ -537,7 +537,7 @@ words fail to flow.]
 
 --
 
-.big[Suddenly, the debris-filled room suddenly fills with water!]
+.big[Suddenly, the debris-filled room fills with water!]
 
 --
 
@@ -662,7 +662,7 @@ words fail to flow.]
 
 --
 
-.big[Suddenly, the debris-filled room suddenly fills with water!]
+.big[Suddenly, the debris-filled room fills with water!]
 
 --
 
@@ -770,7 +770,7 @@ words fail to flow.]
 
 --
 
-.big[Suddenly, the debris-filled room suddenly fills with water!]
+.big[Suddenly, the debris-filled room fills with water!]
 
 --
 
