@@ -305,7 +305,7 @@ name: ch2-cave
 # Cave entrance
 
 .bigger[You approach the entrance to a cave. Around you is a jungle.
-A small stream flows out of the cave and down a gully.]
+A small stream flows into the cave.]
 
 .bigger[There is a shiny brass lamp nearby.]
 
