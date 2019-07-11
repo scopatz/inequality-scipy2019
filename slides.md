@@ -193,7 +193,7 @@ to you are your cunning logic and sharp wit.]
 
 .big[
 1. [Stroll on the beach to contemplate your loneliness](#ch2-beach)
-2. [Walk in the forest to ponder your friendships](#ch2-forest)
+2. [Walk in the jungle to ponder your friendships](#ch2-forest)
 3. [Enter the cave to do some journaling](#ch2-cave)
 4. [Hike up the volcano to ask for help on Hacker News](#ch2-volcano)
 ]
@@ -237,9 +237,9 @@ their diversity & inclusion efforts?]
 
 ---
 name: ch2-forest
-# Walk in the forest
+# Walk in the jungle
 
-.bigger[Approaching the forest, you scare four vultures out of a tree.]
+.bigger[Approaching the jungle, you scare four vultures out of a tree.]
 
 --
 
@@ -270,7 +270,7 @@ the podcast with diversity & inclusion issues?]
 (Time Limit: 1 min)
 
 ---
-# Walk in the forest
+# Walk in the jungle
 
 .bigger[You forgot about the tiger hunting you this whole time!]
 
@@ -305,7 +305,7 @@ volcano, you slip on a treacherous ledge and fall into the lava below.]
 name: ch2-cave
 # Cave entrance
 
-.bigger[You approach the entrance to a cave. Around you is a forest.
+.bigger[You approach the entrance to a cave. Around you is a jungle.
 A small stream flows out of the cave and down a gully.]
 
 .bigger[There is a shiny brass lamp nearby.]
