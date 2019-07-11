@@ -827,7 +827,7 @@ class: center, middle
 
 .bigger[What does this data say about our community?]
 
-.bigger[What strategies are projects with more equality employing?]
+.bigger[What are the strategies that projects like nteract are employing?]
 
 .bigger[Are these applicable to other projects?]
 
