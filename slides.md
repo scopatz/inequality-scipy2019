@@ -883,7 +883,7 @@ name: ch4-leave-cave
 
 --
 
-.bigger[After leaving the debris room and avoiding the pit, you exit the cave.]
+.bigger[After leaving the debris room and avoid the pit, you exit the cave.]
 
 --
 
