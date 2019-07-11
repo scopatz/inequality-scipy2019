@@ -951,8 +951,8 @@ are both active diversity issues and passive ones.]
 
 --
 
-.bigger[<u>**Active</u>:** A toxic community / culture - or a toxic
-prevents & destroys equitable systems.]
+.bigger[<u>**Active</u>:** A toxic community / culture
+that prevents & destroys equitable systems.]
 
 --
 
