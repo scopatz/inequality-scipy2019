@@ -264,8 +264,7 @@ class: center, middle
 
 .bigger[How can a co-host help bring a missing perspective to the podcast?]
 
-.bigger[What are the qualities of a friend you would want to help
-the podcast with diversity & inclusion issues?]
+.bigger[What qualities of a co-host do you would want?]
 
 (Time Limit: 1 min)
 
