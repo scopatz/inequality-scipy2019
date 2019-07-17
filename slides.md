@@ -379,7 +379,7 @@ name: ch2-turn-on-lamp-outside-cave
 
 --
 
-.bigger[Not wanting to return to your hut, you enter the cave.]
+.bigger[Intrigued by the inky depths, you enter the cave.]
 
 --
 
